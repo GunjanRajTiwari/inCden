@@ -1,0 +1,32 @@
+User: 192.168.1.164 - July 24, 2019, 1:58 pm
+Status: System Added
+System: poker
+-------------------------
+User: 192.168.1.164 - July 24, 2019, 1:59 pm
+Status: System Deleted
+System: poker
+-------------------------
+User: 192.168.1.164 - July 24, 2019, 1:59 pm
+Status: System Added
+System: qwe
+-------------------------
+User: 192.168.1.164 - July 24, 2019, 1:59 pm
+Status: System Deleted
+System: qwe
+-------------------------
+User: 192.168.1.164 - July 24, 2019, 2:00 pm
+Status: Hostname Added
+Hostname: asd
+-------------------------
+User: 192.168.1.164 - July 24, 2019, 2:00 pm
+Status: Host Deleted
+Host: asd
+-------------------------
+User: 192.168.1.164 - July 24, 2019, 2:00 pm
+Status: Severity Added
+Severity: zxc
+-------------------------
+User: 192.168.1.164 - July 24, 2019, 2:00 pm
+Status: Severity Deleted
+Severity: zxc
+-------------------------

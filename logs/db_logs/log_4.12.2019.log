@@ -1,0 +1,28 @@
+User: ::1 - December 4, 2019, 9:27 am
+Status: System Added
+System: ABC
+-------------------------
+User: ::1 - December 4, 2019, 9:52 am
+Status: System Deleted
+System: ABC
+-------------------------
+User: ::1 - December 4, 2019, 9:52 am
+Status: System Added
+System: ABC
+-------------------------
+User: ::1 - December 4, 2019, 10:26 am
+Status: System Deleted
+System: abc
+-------------------------
+User: ::1 - December 4, 2019, 10:26 am
+Status: Severity Deleted
+Severity: critical
+-------------------------
+User: ::1 - December 4, 2019, 10:27 am
+Status: Severity Deleted
+Severity: critical
+-------------------------
+User: ::1 - December 4, 2019, 10:27 am
+Status: Severity Deleted
+Severity: Critical
+-------------------------

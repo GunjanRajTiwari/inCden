@@ -1,0 +1,44 @@
+User: ::1 - December 4, 2019, 8:53 am
+Status: User Accepted
+User: 22
+-------------------------
+User: ::1 - December 4, 2019, 9:18 am
+Status: Delete Success
+User Deleted: 22
+-------------------------
+User: ::1 - December 4, 2019, 9:49 am
+Status: User Accepted
+User: 7
+-------------------------
+User: ::1 - December 4, 2019, 9:49 am
+Status: User Rejected
+User: 7
+-------------------------
+User: ::1 - December 4, 2019, 10:18 am
+Status: User Accepted
+User: 23
+-------------------------
+User: ::1 - December 4, 2019, 10:20 am
+Status: Delete Success
+User Deleted: 24
+-------------------------
+User: ::1 - December 4, 2019, 10:25 am
+Status: Edit Success
+User Edited: 23
+-------------------------
+User: ::1 - December 4, 2019, 10:25 am
+Status: User Rejected
+User: 23
+-------------------------
+User: ::1 - December 4, 2019, 10:25 am
+Status: User Rejected
+User: 23
+-------------------------
+User: ::1 - December 4, 2019, 10:25 am
+Status: User Accepted
+User: 23
+-------------------------
+User: ::1 - December 4, 2019, 10:25 am
+Status: Delete Success
+User Deleted: 23
+-------------------------
